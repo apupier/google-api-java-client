@@ -73,11 +73,7 @@ cd -
 
 ## CI Status
 
-Java Version | Status
------------- | ------
-Java 7 | [![Kokoro CI](https://storage.googleapis.com/cloud-devrel-public/java/badges/google-api-java-client/java7.svg)](https://storage.googleapis.com/cloud-devrel-public/java/badges/google-api-java-client/java7.html)
-Java 8 | [![Kokoro CI](https://storage.googleapis.com/cloud-devrel-public/java/badges/google-api-java-client/java8.svg)](https://storage.googleapis.com/cloud-devrel-public/java/badges/google-api-java-client/java8.html)
-Java 11 | [![Kokoro CI](https://storage.googleapis.com/cloud-devrel-public/java/badges/google-api-java-client/java11.svg)](https://storage.googleapis.com/cloud-devrel-public/java/badges/google-api-java-client/java11.html)
+[![GitHub ci](https://github.com/googleapis/google-api-java-client/actions/workflows/ci.yaml/badge.svg)](https://github.com/googleapis/google-api-java-client/actions/workflows/ci.yaml)
 
 ## Dependencies
 This library is built on top of two common libraries, also built by Google, and also designed to
